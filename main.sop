@@ -1,5 +1,5 @@
 howl tiro_korodhsan(tiro) {
-    haddii (tiro <= 13) {
+    haddii (tiro <= 1) {
       soo_celi tiro
 }
     haddii_kalena {

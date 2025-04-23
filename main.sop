@@ -3,7 +3,7 @@ howl tiro_korodhsan(tiro) {
       soo_celi tiro
     }
     haddii_kalena {
-      soo_celi tiro_korodhsan(tiro - 1) + tiro_korodhsan(tiro -2)
+      soo_celi tiro_korodhsan(tiro - 1) + tiro_korodhsan(tiro - 2)
     }
 }
 qor(tiro_korodhsan(3))
